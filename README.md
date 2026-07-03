@@ -36,3 +36,10 @@ Day 1:
 - Project initialized
 - Folder structure created
 - GitHub repository connected
+
+## Day 2 Progress
+
+- Created Python virtual environment
+- Installed project dependencies
+- Implemented PDF text extraction using pdfplumber
+- Successfully extracted text from a sample resume

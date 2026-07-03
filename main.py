@@ -1,6 +1,6 @@
-def main():
-    print("Welcome to AI Resume Analyzer!")
+from backend.parser import extract_text
 
 
-if __name__ == "__main__":
-    main()
+resume = extract_text("data/resumeofpritipriya.pdf")
+
+print(resume)
