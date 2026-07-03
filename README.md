@@ -43,3 +43,11 @@ Day 1:
 - Installed project dependencies
 - Implemented PDF text extraction using pdfplumber
 - Successfully extracted text from a sample resume
+
+## Day 3 Progress
+
+- Learned Regular Expressions (Regex)
+- Implemented email extraction
+- Implemented phone number extraction
+- Implemented LinkedIn URL extraction
+- Built reusable extraction functions
