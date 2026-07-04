@@ -51,3 +51,11 @@ Day 1:
 - Implemented phone number extraction
 - Implemented LinkedIn URL extraction
 - Built reusable extraction functions
+
+## Day 4 Progress
+
+- Learned NLP fundamentals
+- Implemented word tokenization
+- Removed stop words
+- Applied lemmatization
+- Built reusable text preprocessing pipeline

@@ -1,8 +1,8 @@
 from backend.parser import extract_text
-from backend.extractor import extract_email
-from backend.extractor import extract_phone
+from backend.text_preprocessing import preprocess_text
 
-resume = extract_text("data/resumeofpritipriya.pdf")
+resume = extract_text("data/sample_resume.pdf")
 
-print(extract_email(resume))
-print(extract_phone(resume))
+cleaned_resume = preprocess_text(resume)
+
+print(cleaned_resume)
